@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Chips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>STM32F407VGT6</PartNumber>
+		<Description>Микроконтроллер</Description>
+		<Comment>STM32F407VGT6</Comment>
+		<LibraryPath>Schematic\STM32F407VGT6.SchLib</LibraryPath>
+		<LibraryRef>STM32F407VGT6</LibraryRef>
+		<FootprintPath1>Footprints\LQFP100.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP100</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>USBLC6-4</PartNumber>
+		<Description>Сборка защитных диодов для USB</Description>
+		<Comment>USBLC6-4</Comment>
+		<LibraryPath>Schematic\USBLC6-4.SchLib</LibraryPath>
+		<LibraryRef>USBLC6-4</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MAX485CSA</PartNumber>
+		<Description>RS-485 приёмопередатчик</Description>
+		<Comment>MAX485CSA</Comment>
+		<LibraryPath>Schematic\MAX485CSA.SchLib</LibraryPath>
+		<LibraryRef>MAX485CSA</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>STM32F103C8T6</PartNumber>
+		<Description>Микроконтроллер</Description>
+		<Comment>STM32F103C8T6</Comment>
+		<LibraryPath>Schematic\STM32F103C8T6.SchLib</LibraryPath>
+		<LibraryRef>STM32F103C8T6</LibraryRef>
+		<FootprintPath1>Footprints\LQFP48.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP48</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM2594HVM-ADJ</PartNumber>
+		<Description>DC-DC преобразователь</Description>
+		<Comment>LM2594HVM-ADJ</Comment>
+		<LibraryPath>Schematic\LM2594HVM-ADJ.SchLib</LibraryPath>
+		<LibraryRef>LM2594HVM-ADJ</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LD1117S33CTR</PartNumber>
+		<Description>Линейный стабилизатор напряжения</Description>
+		<Comment>LD1117S33CTR</Comment>
+		<LibraryPath>Schematic\LD1117S33CTR.SchLib</LibraryPath>
+		<LibraryRef>LD1117S33CTR</LibraryRef>
+		<FootprintPath1>Footprints\SOT223.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT223</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CD4050B</PartNumber>
+		<Description>Шесть буферных элементов</Description>
+		<Comment>CD4050B</Comment>
+		<LibraryPath>Schematic\CD4050B.SchLib</LibraryPath>
+		<LibraryRef>CD4050B</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADM2483BRWZ</PartNumber>
+		<Description>Прием передатчик RS485 с гальванической развязкой</Description>
+		<Comment>ADM2483BRWZ</Comment>
+		<LibraryPath>Schematic\ADM2483BRWZ.SchLib</LibraryPath>
+		<LibraryRef>ADM2483BRWZ</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16W.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16W</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LD1117S50CTR</PartNumber>
+		<Description>Линейный стабилизатор напряжения</Description>
+		<Comment>LD1117S50CTR</Comment>
+		<LibraryPath>Schematic\LD1117S50CTR.SchLib</LibraryPath>
+		<LibraryRef>LD1117S50CTR</LibraryRef>
+		<FootprintPath1>Footprints\SOT223.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT223</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>VND5025</PartNumber>
+		<Description>Double channel high side driver with analog current sense for automotive applications</Description>
+		<Comment>VND5025</Comment>
+		<LibraryPath>Schematic\VND5025.SchLib</LibraryPath>
+		<LibraryRef>VND5025</LibraryRef>
+		<FootprintPath1>Footprints\POWERSSO24.PcbLib</FootprintPath1>
+		<FootprintRef1>POWERSSO24</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>SN74LVC1G17DCKR</PartNumber>
+		<Description>Одиночный триггер Шмитта 5-SC70 -40 to 125, буфер</Description>
+		<Comment>SN74LVC1G17DCKR</Comment>
+		<LibraryPath>Schematic\SN74LVC1G17DCKR.SchLib</LibraryPath>
+		<LibraryRef>SN74LVC1G17DCKR</LibraryRef>
+		<FootprintPath1>Footprints\SC-70-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SC-70-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74LVC1G74DP,125</PartNumber>
+		<Description>Одиночный D триггер</Description>
+		<Comment>74LVC1G74DP,125</Comment>
+		<LibraryPath>Schematic\74LVC1G74DP,125.SchLib</LibraryPath>
+		<LibraryRef>74LVC1G74DP,125</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-8.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RT8279GSP</PartNumber>
+		<Description>Преобразователь постоянного тока понижающий подстраиваемый выход 5А НЕ РЕКОМЕНДОВАНО ДЛЯ НОВЫХ ДИЗАЙНОВ</Description>
+		<Comment>RT8279GSP</Comment>
+		<LibraryPath>Schematic\RT8279GSP.SchLib</LibraryPath>
+		<LibraryRef>RT8279GSP</LibraryRef>
+		<FootprintPath1>Footprints\8SOP(Exposed_Pad).PcbLib</FootprintPath1>
+		<FootprintRef1>8SOP(Exposed_Pad)</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TP4056</PartNumber>
+		<Description>TP4056, Контроллер заряда Li-Ion аккумуляторов, 1А, UMW</Description>
+		<Comment>TP4056</Comment>
+		<LibraryPath>Schematic\TP4056.SchLib</LibraryPath>
+		<LibraryRef>TP4056</LibraryRef>
+		<FootprintPath1>Footprints\8SOP(Exposed_Pad).PcbLib</FootprintPath1>
+		<FootprintRef1>8SOP(Exposed_Pad)</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM2623AMMX</PartNumber>
+		<Description>Повышающий DC-DC преобразователь 2A</Description>
+		<Comment>LM2623AMMX</Comment>
+		<LibraryPath>Schematic\LM2623AMMX.SchLib</LibraryPath>
+		<LibraryRef>LM2623AMMX</LibraryRef>
+		<FootprintPath1>Footprints\VSSOP-8.PcbLib</FootprintPath1>
+		<FootprintRef1>VSSOP-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DW01</PartNumber>
+		<Description>Защита одной ячейки Li-Ion/polimer</Description>
+		<Comment>DW01</Comment>
+		<LibraryPath>Schematic\DW01.SchLib</LibraryPath>
+		<LibraryRef>DW01</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>arduino_nano</PartNumber>
+		<Description>ардуинка на стойках</Description>
+		<Comment>arduino_nano</Comment>
+		<LibraryPath>Schematic\arduino_nano.SchLib</LibraryPath>
+		<LibraryRef>arduino_nano</LibraryRef>
+		<FootprintPath1>Footprints\arduino_nano.PcbLib</FootprintPath1>
+		<FootprintRef1>arduino_nano</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TPS61088</PartNumber>
+		<Description>Преобразователь постоянного тока повышающий синхронный вход 2.7В...12В выход 4.5В...12.6В 10A</Description>
+		<Comment>TPS61088</Comment>
+		<LibraryPath>Schematic\TPS61088.SchLib</LibraryPath>
+		<LibraryRef>TPS61088</LibraryRef>
+		<FootprintPath1>Footprints\VQFN-RHL.PcbLib</FootprintPath1>
+		<FootprintRef1>VQFN-RHL</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RT8509A</PartNumber>
+		<Description>Импульсный повышающий DC-DC стабилизатор, регулируемый, 2.8В-14В (Vin), 24В/4.5A, 1.5МГц, WDFN-12</Description>
+		<Comment>RT8509A</Comment>
+		<LibraryPath>Schematic\RT8509A.SchLib</LibraryPath>
+		<LibraryRef>RT8509A</LibraryRef>
+		<FootprintPath1>Footprints\WDFN5x5-12.PcbLib</FootprintPath1>
+		<FootprintRef1>WDFN5x5-12</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>VN7140AS</PartNumber>
+		<Description>Силовой ключ верхнего плеча с аналоговой обратной связью MultiSense автомобильного применения</Description>
+		<Comment>VN7140AS</Comment>
+		<LibraryPath>Schematic\VN7140AS.SchLib</LibraryPath>
+		<LibraryRef>VN7140AS</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74HC4051PW,118</PartNumber>
+		<Description>Мультиплексор аналоговый 8 в 1 КМОП кристалл, TSSOP16</Description>
+		<Comment>74HC4051PW,118</Comment>
+		<LibraryPath>Schematic\74HC4051PW,118.SchLib</LibraryPath>
+		<LibraryRef>74HC4051PW,118</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>sim800l</PartNumber>
+		<Description>Четырехдиапазонный GSM/GPRS модуль, частоты: GSM 850 МГц, EGSM 900 МГц, DCS 1800 МГц и PCS 1900 МГц.</Description>
+		<Comment>sim800l</Comment>
+		<LibraryPath>Schematic\sim800l.SchLib</LibraryPath>
+		<LibraryRef>sim800l</LibraryRef>
+		<FootprintPath1>Footprints\sim800l.PcbLib</FootprintPath1>
+		<FootprintRef1>sim800l</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74HC139D,653</PartNumber>
+		<Description>Два декодера (демультиплексора) 2 в 4 (1 в 4), вход и выходы с инверсией</Description>
+		<Comment>74HC139D,653</Comment>
+		<LibraryPath>Schematic\74HC139D,653.SchLib</LibraryPath>
+		<LibraryRef>74HC139D,653</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CD4555BM</PartNumber>
+		<Description>Два декодера (демультиплексора) 2 в 4 (1 в 4), вход с инверсией, выходы без</Description>
+		<Comment>CD4555BM</Comment>
+		<LibraryPath>Schematic\CD4555BM.SchLib</LibraryPath>
+		<LibraryRef>CD4555BM</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MC74HC595ADR2G</PartNumber>
+		<Description>8-ми битный сдвиговый регистр</Description>
+		<Comment>MC74HC595ADR2G</Comment>
+		<LibraryPath>Schematic\MC74HC595ADR2G.SchLib</LibraryPath>
+		<LibraryRef>MC74HC595ADR2G</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MT3608</PartNumber>
+		<Description>Повышающий/SEPIC DC-DC преобразователь 2А 1.2МГц</Description>
+		<Comment>MT3608</Comment>
+		<LibraryPath>Schematic\MT3608.SchLib</LibraryPath>
+		<LibraryRef>MT3608</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CD4013BE</PartNumber>
+		<Description>Два триггера D-типа</Description>
+		<Comment>CD4013BE</Comment>
+		<LibraryPath>Schematic\CD4013BE.SchLib</LibraryPath>
+		<LibraryRef>CD4013BE</LibraryRef>
+		<FootprintPath1>Footprints\DIP14.PcbLib</FootprintPath1>
+		<FootprintRef1>DIP14_IN_SOCKET</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>STM32F103C8T6_board</PartNumber>
+		<Description>blue pill</Description>
+		<Comment>STM32F103C8T6_board</Comment>
+		<LibraryPath>Schematic\STM32F103C8T6_board.SchLib</LibraryPath>
+		<LibraryRef>STM32F103C8T6_board</LibraryRef>
+		<FootprintPath1>Footprints\STM32F103C8T6_board.PcbLib</FootprintPath1>
+		<FootprintRef1>STM32F103C8T6_board</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RPI</PartNumber>
+		<Description>Одноплатный компьютер Raspberry PI 4B</Description>
+		<Comment>RPI</Comment>
+		<LibraryPath>Schematic\RPI.SchLib</LibraryPath>
+		<LibraryRef>RPI</LibraryRef>
+		<FootprintPath1>Footprints\RPI.PcbLib</FootprintPath1>
+		<FootprintRef1>RPI</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LTC4418</PartNumber>
+		<Description>Переключатель питания</Description>
+		<Comment>LTC4418</Comment>
+		<LibraryPath>Schematic\LTC4418.SchLib</LibraryPath>
+		<LibraryRef>LTC4418</LibraryRef>
+		<FootprintPath1>Footprints\QFN50.PcbLib</FootprintPath1>
+		<FootprintRef1>QFN50</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>NE555</PartNumber>
+		<Description>Таймер интегральный прецизионный</Description>
+		<Comment>NE555</Comment>
+		<LibraryPath>Schematic\NE555.SchLib</LibraryPath>
+		<LibraryRef>NE555</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM393</PartNumber>
+		<Description>Двойной маломощный компаратор напряжения</Description>
+		<Comment>LM393</Comment>
+		<LibraryPath>Schematic\LM393.SchLib</LibraryPath>
+		<LibraryRef>LM393</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LD7575</PartNumber>
+		<Description>Высоковольтный ШИМ-контроллер со схемой мягкого запуска</Description>
+		<Comment>LD7575</Comment>
+		<LibraryPath>Schematic\LD7575.SchLib</LibraryPath>
+		<LibraryRef>LD7575</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MAX668</PartNumber>
+		<Description>Boost, Flyback, SEPIC преобразователь. 10-uMAX/uSOP</Description>
+		<Comment>MAX668</Comment>
+		<LibraryPath>Schematic\MAX668.SchLib</LibraryPath>
+		<LibraryRef>MAX668</LibraryRef>
+		<FootprintPath1>Footprints\uSOP10.PcbLib</FootprintPath1>
+		<FootprintRef1>uSOP10</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LTV354T</PartNumber>
+		<Description>Оптопара с транзисторным выходом, UMW</Description>
+		<Comment>LTV354T</Comment>
+		<LibraryPath>Schematic\LTV354.SchLib</LibraryPath>
+		<LibraryRef>LTV354</LibraryRef>
+		<FootprintPath1>Footprints\SOP4-2_54.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP4-2_54</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>SN74LVC1G14DCKR</PartNumber>
+		<Description>Одноканальный инвертор с триггером Шмитта</Description>
+		<Comment>SN74LVC1G14DCKR</Comment>
+		<LibraryPath>Schematic\SN74LVC1G14DCKR.SchLib</LibraryPath>
+		<LibraryRef>SN74LVC1G14DCKR</LibraryRef>
+		<FootprintPath1>Footprints\SC-70-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SC-70-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>USB2514BM2</PartNumber>
+		<Description>USB 2,0 HUB</Description>
+		<Comment>USB2514BM2</Comment>
+		<LibraryPath>Schematic\USB2514BM2.Schlib</LibraryPath>
+		<LibraryRef>USB2514BM2</LibraryRef>
+		<FootprintPath1>Footprints\VFQFN-36.PcbLib</FootprintPath1>
+		<FootprintRef1>VFQFN-36</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RTL8367N-VB-CG</PartNumber>
+		<Description>ETH свич 1000base-T</Description>
+		<Comment>RTL8367N-VB-CG</Comment>
+		<LibraryPath>Schematic\RTL8367N-VB-CG.SchLib</LibraryPath>
+		<LibraryRef>RTL8367N-VB-CG</LibraryRef>
+		<FootprintPath1>Footprints\QFN40.PcbLib</FootprintPath1>
+		<FootprintRef1>QFN40</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM4</PartNumber>
+		<Description>Raspberry Pi Compute Module 4 (Wireless, 2GB RAM, 32GB eMMC), Одноплатный компьютер на базе процессора Broadcom BCM2711, Wi-Fi, Bluetooth</Description>
+		<Comment>CM4</Comment>
+		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
+		<LibraryRef>CM4</LibraryRef>
+		<FootprintPath1>Footprints\CM4.PcbLib</FootprintPath1>
+		<FootprintRef1>CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM5</PartNumber>
+		<Description>Система на модуле с 64-битным процессором Arm с тактовой частотой 2,4 ГГц, контроллером ввода-вывода, видео и PCIe интерфейсами, а также рядом опций беспроводной связи, SDRAM и eMMC</Description>
+		<Comment>CM5</Comment>
+		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
+		<LibraryRef>CM5</LibraryRef>
+		<FootprintPath1>Footprints\CM4.PcbLib</FootprintPath1>
+		<FootprintRef1>CM5-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADP2301AUJZ-R7</PartNumber>
+		<Description>DC-DC преобразователь понижающий ADJ 1.2А</Description>
+		<Comment>ADP2301AUJZ-R7</Comment>
+		<LibraryPath>Schematic\ADP2300.SchLib</LibraryPath>
+		<LibraryRef>ADP2300</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM5116MH</PartNumber>
+		<Description>dc-dc понижающий adj 6-100v </Description>
+		<Comment>LM5116MH</Comment>
+		<LibraryPath>Schematic\LM5116MH.SchLib</LibraryPath>
+		<LibraryRef>LM5116MH</LibraryRef>
+		<FootprintPath1>Footprints\HTSSOP-20.PcbLib</FootprintPath1>
+		<FootprintRef1>HTSSOP-20</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>IXDN602</PartNumber>
+		<Description>Двухканальный драйвер затвора для mosfet и igbt транзисторов</Description>
+		<Comment>IXDN602</Comment>
+		<LibraryPath>Schematic\IXDN602.SchLib</LibraryPath>
+		<LibraryRef>IXDN602</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LMC555</PartNumber>
+		<Description>Таймер интегральный прецизионный КМОП</Description>
+		<Comment>LMC555</Comment>
+		<LibraryPath>Schematic\LM393.SchLib</LibraryPath>
+		<LibraryRef>LM393</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MC3306A</PartNumber>
+		<Description>DC-DC понижающий/повышающий преобразователь, вход: 3 - 40 В, выход: 1,25 - 40 В 1,5 А</Description>
+		<Comment>MC3306A</Comment>
+		<LibraryPath>Schematic\MC3306A.SchLib</LibraryPath>
+		<LibraryRef>MC3306A</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RTL8367RB-VB</PartNumber>
+		<Description>Управляемый коммутатор второго уровня на 5+2 порта 10/100/1000M</Description>
+		<Comment>RTL8367RB-VB</Comment>
+		<LibraryPath>Schematic\RTL8367RB-VB_gost.SchLib</LibraryPath>
+		<LibraryRef>RTL8367RB-VB_gost</LibraryRef>
+		<FootprintPath1>Footprints\LQFP128_14x14_exposed_pad.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP128_14x14_exposed_pad</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TS951ILT</PartNumber>
+		<Description>Операционный усилитель Rail-to-Rail, 1-канальный</Description>
+		<Comment>TS951ILT</Comment>
+		<LibraryPath>Schematic\TS951ILT.SchLib</LibraryPath>
+		<LibraryRef>TS951ILT</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63200</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 3.8 - 40 В, adj, 2 А</Description>
+		<Comment>AP63200</Comment>
+		<LibraryPath>Schematic\AP63200.SchLib</LibraryPath>
+		<LibraryRef>AP63200</LibraryRef>
+		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74HC74D,653</PartNumber>
+		<Description>Два триггера D-типа</Description>
+		<Comment>74HC74D,653</Comment>
+		<LibraryPath>Schematic\74HC74D,653.SchLib</LibraryPath>
+		<LibraryRef>74HC74D,653</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-14.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-14</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63203</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 3.8 - 40 В; 3,3 В; 2 А</Description>
+		<Comment>AP63203</Comment>
+		<LibraryPath>Schematic\AP63203.SchLib</LibraryPath>
+		<LibraryRef>AP63203</LibraryRef>
+		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>IRS21867</PartNumber>
+		<Description>Полумостовой драйвер затвора для mosfet и igbt транзисторов</Description>
+		<Comment>IRS21867</Comment>
+		<LibraryPath>Schematic\IRS21867.SchLib</LibraryPath>
+		<LibraryRef>IRS21867</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM5116000</PartNumber>
+		<Description>Raspberry-Pi Cm5 16Gb RAM, 0Gb eMMC, Wifibt </Description>
+		<Comment>CM5116000</Comment>
+		<LibraryPath>Schematic\CM5116000.SchLib</LibraryPath>
+		<LibraryRef>CM5116000</LibraryRef>
+		<FootprintPath1>Footprints\CM5116000.PcbLib</FootprintPath1>
+		<FootprintRef1>CM5116000</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ST1S40IPUR</PartNumber>
+		<Description>Преобразователь постоянного тока понижающий синхронный подстраиваемый 3А</Description>
+		<Comment>ST1S40IPUR</Comment>
+		<LibraryPath>Schematic\ST1S40IPUR.SchLib</LibraryPath>
+		<LibraryRef>ST1S40IPUR</LibraryRef>
+		<FootprintPath1>Footprints\VFQFPN8-4X4.PcbLib</FootprintPath1>
+		<FootprintRef1>VFQFPN8-4X4</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MT9700</PartNumber>
+		<Description>Силовой ключ с настраиваемым ограничением тока, 2А(max), SOT-23-5</Description>
+		<Comment>MT9700</Comment>
+		<LibraryPath>Schematic\MT9700.SchLib</LibraryPath>
+		<LibraryRef>MT9700</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>NSi8100NC</PartNumber>
+		<Description>Цифровой двунаравленный изолятор 2 канала</Description>
+		<Comment>NSi8100NC</Comment>
+		<LibraryPath>Schematic\NSi8100NC.SchLib</LibraryPath>
+		<LibraryRef>NSi8100NC</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+</Chips>

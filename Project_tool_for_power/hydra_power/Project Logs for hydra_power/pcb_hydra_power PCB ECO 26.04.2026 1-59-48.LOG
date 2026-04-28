@@ -1,0 +1,86 @@
+Added Component: Designator=DA1(LCC127P889X889X223-20N)
+Added Component: Designator=R1(EIA0805)
+Added Component: Designator=R2(EIA0805)
+Added Component: Designator=R3(EIA0805)
+Added Component: Designator=R4(EIA0805)
+Added Component: Designator=R5(EIA0805)
+Added Component: Designator=R6(EIA0805)
+Added Component: Designator=R7(EIA0805)
+Added Component: Designator=R8(EIA0805)
+Added Component: Designator=R9(EIA0805)
+Added Component: Designator=R10(EIA0805)
+Added Component: Designator=U1(SOT95P237X112-3N)
+Added Component: Designator=VD1(LED 0603)
+Added Component: Designator=VD2(LED 0603)
+Added Component: Designator=VD3(LED 0603)
+Added Component: Designator=VD4(LED 0603)
+Added Component: Designator=XF1(XT60)
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA1-7
+Added Pin To Net: NetName=GND Pin=DA1-11
+Added Pin To Net: NetName=GND Pin=DA1-15
+Added Pin To Net: NetName=GND Pin=DA1-17
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=XF1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=VD4-2
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=VD3-2
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R5-1
+Added Pin To Net: NetName=NetDA1_6 Pin=R7-2
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-10
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-13
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-16
+Added Pin To Net: NetName=NetDA1_8 Pin=R2-1
+Added Pin To Net: NetName=NetDA1_8 Pin=U1-1
+Added Pin To Net: NetName=NetDA1_8 Pin=U1-2
+Added Net: Name=NetDA1_8
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Pin To Net: NetName=NetDA1_9 Pin=R1-1
+Added Pin To Net: NetName=NetDA1_9 Pin=R5-2
+Added Net: Name=NetDA1_9
+Added Pin To Net: NetName=NetDA1_12 Pin=DA1-12
+Added Pin To Net: NetName=NetDA1_12 Pin=R7-1
+Added Pin To Net: NetName=NetDA1_12 Pin=R9-2
+Added Net: Name=NetDA1_12
+Added Pin To Net: NetName=NetDA1_14 Pin=DA1-14
+Added Pin To Net: NetName=NetDA1_14 Pin=R9-1
+Added Pin To Net: NetName=NetDA1_14 Pin=R10-2
+Added Net: Name=NetDA1_14
+Added Pin To Net: NetName=NetDA1_19 Pin=DA1-19
+Added Pin To Net: NetName=NetDA1_19 Pin=VD1-2
+Added Net: Name=NetDA1_19
+Added Pin To Net: NetName=NetDA1_20 Pin=DA1-20
+Added Pin To Net: NetName=NetDA1_20 Pin=VD2-2
+Added Net: Name=NetDA1_20
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=VD1-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VD2-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=VD3-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=VD4-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=XF1-1
+Added Net: Name=VCC
+Added Class: Name=scheme_hydra_power
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
