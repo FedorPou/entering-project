@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LDLIVDXO
 
 [Document3]
-DocumentPath=..\..\..\Altium LIBs\IntegratedLibrary\MineLib\Hydra\MineDblib.DBLib
+DocumentPath=..\..\Hydrolib.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
